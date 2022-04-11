@@ -1,6 +1,10 @@
 # Discord .webm crash generator
 
 ## Potentially asked questions
+> How work?
+
+extract the .webm and .bat to the same directory, run the .bat, follow instructions, ???(???) done 
+
 > It doesn't work!
 
 
